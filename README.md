@@ -5,11 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 ## Step 1 - Build a static version
- 1 - Todo List App
- 2 - Header
- 3 - Task List
-    4 - Task Items
- 5 - Add Task Item
+ 1 - Todo List App  
+ 2 - Header  
+ 3 - Task List  
+    4 - Task Items  
+ 5 - Add Task Item  
 
  ## Step 2 - Identify states
   
